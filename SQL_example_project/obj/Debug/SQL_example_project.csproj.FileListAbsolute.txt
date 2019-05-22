@@ -1,0 +1,13 @@
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\bin\Debug\SQLEXPRESS.mdf
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\bin\Debug\SQLEXPRESS_log.ldf
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\bin\Debug\SQL_example_project.exe.config
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\bin\Debug\SQL_example_project.exe
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\bin\Debug\SQL_example_project.pdb
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.Form1.resources
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.Properties.Resources.resources
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.csproj.GenerateResource.cache
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.exe
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.pdb
+C:\Users\Василь\source\repos\SQL_example_project\SQL_example_project\obj\Debug\SQL_example_project.Form2.resources
